@@ -4,13 +4,14 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 <h1 align="left">
   Hi there, I'm
-  <a href="https://www.linkedin.com/in/ranjeet-kumar-bb076a22b/">Ranjeet Kumar</a>
+  <a href="[https://www.linkedin.com/in/ranjeet-kumar-bb076a22b/](https://www.linkedin.com/in/ruchi-kumari-170762232/)">Ranjeet Kumar</a>
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
 </h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/ranjeet-kumar-bb076a22b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjeet%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="https://www.linkedin.com/in/ruchi-kumari-170762232/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ruchi%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   </a>
 </p>
 
