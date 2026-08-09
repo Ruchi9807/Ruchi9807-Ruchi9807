@@ -52,16 +52,25 @@ https://www.hackerrank.com/profile/rsujeet2002
 <details>
    <summary>📃 Resume</summary>
 
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
- 📖**Bachelor's of technology-< computer science and engineering >**
- 
- - 📍 **Harishankar Verma Co-operative inter college**------------------**< 2019-2021 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Bradford International School, Patna**------------------**< 2018-2019 >**\
-   📖**Secondary Schooling**
- 
+## 🎓 Education
+
+- 📍 **I.K. Gujral Punjab Technical University, Jalandhar**
+
+  📖 **Bachelor of Technology – Computer Science & Engineering**
+
+  📅 **2020 – 2024**
+
+- 📍 **Al-Momin College of Education**
+
+  📖 **Intermediate / Senior Secondary**
+
+  📅 **2018 – 2020**
+
+- 📍 **Gyan Bharti Residential Complex**
+
+  📖 **Secondary Schooling (10th)**
+
+  📅 **2017 – 2018**
    
    
  
