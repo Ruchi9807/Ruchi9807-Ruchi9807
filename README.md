@@ -15,9 +15,9 @@
   </a>
 </p>
 
-🚀 **Data Analyst | Power BI | SQL | Python | Excel**
+🚀 **Software Development Engineer | C++ | Python | React | Django | SQL**
 
-I am a passionate Data Analyst with a B.Tech in Computer Science & Engineering, skilled in SQL, Python, Power BI, Excel, and Data Visualization. I enjoy transforming raw data into actionable insights and building interactive dashboards that support data-driven decision-making. I am continuously learning and seeking opportunities to contribute as a Data Analyst or Business Intelligence Analyst.
+I am a passionate Software Development Engineer with a B.Tech in Computer Science & Engineering, skilled in C++, Python, React, Django, SQL, and REST APIs. I enjoy building responsive web applications, scalable backend systems, and solving real-world programming problems. I am continuously learning and seeking opportunities to contribute to impactful software development projects.
 
 📧 **Email:** [ruchipatna2002@gmail.com](mailto:ruchipatna2002@gmail.com)
 
@@ -25,7 +25,7 @@ I am a passionate Data Analyst with a B.Tech in Computer Science & Engineering, 
 
 ### 📊 Coding & Data Profiles
 
-https://leetcode.com/u/Ranjeet0333/
+https://leetcode.com/u/Ruchi133/
 
 https://www.hackerrank.com/profile/ruchipatna2002
 - 🔭 Currently working on **Frontend & Backend Development Projects**
